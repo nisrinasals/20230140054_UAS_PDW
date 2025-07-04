@@ -9,10 +9,10 @@
 ## Mahasiswa
 
 ![Dashboard](./docs/mahasiswa/dashboard.png)
-![Cari Praktikum](./docs/mahasiswa/cari_praktikum.png)
 ![Praktikum Saya](./docs/mahasiswa/praktikum_saya.png)
-![Detail Praktikum](./docs/mahasiswa/detail_prak2.png)
 ![Detail Praktikum](./docs/mahasiswa/detail_prak.png)
+![Detail Praktikum](./docs/mahasiswa/detail_prak2.png)
+![Cari Praktikum](./docs/mahasiswa/cari_praktikum.png)
 
 ## Asisten
 
