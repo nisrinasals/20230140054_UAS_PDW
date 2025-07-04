@@ -18,9 +18,9 @@
 
 ![Dashboard](./docs/asisten/dashboard.png)
 ![Kelola Praktikum](./docs/asisten/kelola_prak.png)
+![Nonaktif Praktikum](./docs/asisten/nonaktif_prak.png)
 ![Tambah Praktikum](./docs/asisten/tambah_prak.png)
 ![Edit Praktikum](./docs/asisten/edit_prak.png)
-![Nonaktif Praktikum](./docs/asisten/nonaktif_prak.png)
 ![Kelola Modul](./docs/asisten/kelola_modul.png)
 ![Tambah Modul](./docs/asisten/tambah_modul.png)
 ![Edit Modul](./docs/asisten/edit_modul.png)
