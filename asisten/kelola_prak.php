@@ -243,7 +243,7 @@ require_once 'templates/header.php';
                                             Edit
                                         </a>
 
-                                        <a href="kelola_praktikum.php?action=toggle_status&id=<?php echo $prak['id']; ?>"
+                                        <a href="kelola_prak.php?action=toggle_status&id=<?php echo $prak['id']; ?>"
                                             class="<?php echo $prak['is_active'] ? 'bg-red-500 hover:bg-red-700' : 'bg-green-500 hover:bg-green-700'; ?> text-white text-xs font-bold py-2 px-3 rounded"
                                             onclick="return confirm('Anda yakin ingin mengubah status praktikum ini?')">
                                             <?php echo $prak['is_active'] ? 'Nonaktifkan' : 'Aktifkan'; ?>
